@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['upload_userfile_not_set'] = 'userfile নামের কোন ভেরিয়েবল পাওয়া যায় নি।';
 $lang['upload_file_exceeds_limit'] = 'আপলোড ফাইলের সাইজ PHP কনফিগারেশন ফাইলের চেয়ে বড় হয়ে গেছে।';
-$lang['upload_file_exceeds_form_limit'] = 'আপলোড ফাইলের সাইজ ফর্ম লিমিটের চেয়ে চেয়ে বড় হয়ে গেছে।';
+$lang['upload_file_exceeds_form_limit'] = 'আপলোড ফাইলের সাইজ ফর্ম লিমিটের চেয়ে বড় হয়ে গেছে।';
 $lang['upload_file_partial'] = 'ফাইল আংশিক ভাবে আপলোড হয়েছে।';
 $lang['upload_no_temp_directory'] = 'টেম্পোরারি ফাইল খুঁজে পাওয়া যায় নি।';
 $lang['upload_unable_to_write_file'] = 'ডিস্কে ফাইলটিকে রাখা সম্ভব হয় নি।';
